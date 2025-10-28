@@ -1,0 +1,7 @@
+{
+  "name": "Copy of red man hebrow speak16",
+  "description": "מנתח שידור וידאו חי כדי לזהות ולתאר אדם בפריים באמצעות Gemini. התיאור מסופק בעברית, מוכן לפלט קולי.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
